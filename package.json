@@ -1,6 +1,6 @@
 {
   "name": "advancedsa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package that can help you to use all of the famous datastructure and algorithms in your coding implementation.",
   "main": "index.js",
   "scripts": {
